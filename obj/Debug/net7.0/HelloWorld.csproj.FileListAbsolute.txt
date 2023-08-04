@@ -1,0 +1,15 @@
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.deps.json
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.runtimeconfig.json
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.dll
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/bin/Debug/net7.0/HelloWorld.pdb
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.AssemblyReference.cache
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfoInputs.cache
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.AssemblyInfo.cs
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.csproj.CoreCompileInputs.cache
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.dll
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/refint/HelloWorld.dll
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.pdb
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/HelloWorld.genruntimeconfig.cache
+/Users/kourtneyzobrist/Desktop/Desktop/repos/HelloWorld/HelloWorld/obj/Debug/net7.0/ref/HelloWorld.dll
